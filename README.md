@@ -1,4 +1,4 @@
-# EBAKER
+# iEBAKER
 
 Code for **iEBAKER**: *Improved Remote Sensing Image-Text Retrieval Framework via Eliminate Before Align and Keyword Explicit Reasoning*
 
