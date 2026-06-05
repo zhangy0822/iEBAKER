@@ -1,0 +1,16 @@
+torch
+torchvision
+timm
+open_clip_torch
+clip-benchmark
+numpy
+pandas
+Pillow
+PyYAML
+tqdm
+tensorboard
+ftfy
+regex
+nltk
+scikit-learn
+scipy
